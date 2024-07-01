@@ -1,4 +1,4 @@
-![RaMI v2](https://github.com/yagennankoz/JoyKey/blob/main/image/RaMIv2.jpg "RaMI v2")
+![RaMI v2](https://github.com/yagennankoz/RaMIv2/blob/main/image/RaMIv2.jpg "RaMI v2")
 # RaMI v2
 X68000 Z MIDIインターフェイス<br>
 MIDIタイミング遅延機能<br>
